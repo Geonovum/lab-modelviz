@@ -1,0 +1,71 @@
+classDiagram 
+  direction BT
+
+class Woonplaats {
+ + identificatie
+ + naam
+ + status
+ + beginGeldigheid
+ + eindGeldigheid
+}
+class OpenbareRuimte {
+ + identificatie
+ + naam
+ + status
+ + beginGeldigheid
+ + eindGeldigheid
+}
+class Nummeraanduiding {
+     + identificatie
+ + naam
+ + status
+ + beginGeldigheid
+ + eindGeldigheid
+}
+
+
+    class  AdresseerbaarObject 
+
+    class Ligplaats {
+        +identificatie
+        +status
+        +beginGeldigheid
+        +eindGeldigheid
+    }
+    class Standplaats {
+       +identificatie
+       +status
+        +beginGeldigheid
+        +eindGeldigheid 
+    }
+
+    class Verblijfsobject {
+        + identificatie
+        + status
+        + beginGeldigheid
+        + eindGeldigheid
+    }
+
+    class Pand {
++ identificatie
++ bouwjaar
++ status
++ beginGeldigheid
++ eindGeldigheid
+    } 
+
+    <<Abstract>> AdresseerbaarObject
+
+    Pand <-- Verblijfsobject: maaktOnderdeelUitVan
+    Verblijfsobject --|> AdresseerbaarObject
+    Ligplaats --|> AdresseerbaarObject
+    Standplaats --|> AdresseerbaarObject
+    AdresseerbaarObject --> Nummeraanduiding: heeftAlsAdres
+    AdresseerbaarObject --> Nummeraanduiding: heeftAlsNevenAdres
+    Nummeraanduiding --> OpenbareRuimte: ligtAan
+    Nummeraanduiding --> Woonplaats: LigtIn
+    OpenbareRuimte --> Woonplaats: LigtIn
+
+click Pand href "https://catalogus.kadaster.nl/bag/nl/page/Pand" "Definitie"
+click Ligplaats href "https://catalogus.kadaster.nl/bag/nl/page/Pand" "verkeerdeDefinitie" 
+note for Pand "Pand is niet het zelfde als een gebouw in BRT"
