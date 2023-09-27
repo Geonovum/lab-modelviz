@@ -1,0 +1,12 @@
+Bijeenkomstfunctie
+Celfunctie
+Gezondheidszorgfunctie
+Kantoorfunctie
+Industriefunctie
+Logiesfunctie
+Onderwijsfunctie
+OverigeGebruiksfunctie
+Sportfunctie
+Verblijfsobject
+Winkelfunctie
+Woonfunctie

@@ -1,0 +1,77 @@
+@prefix bag: <http://bag.basisregistraties.overheid.nl/id/begrip/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@prefix dc: <http://purl.org/dc/terms/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+bag:Logiesfunctie
+  skos:notation "logiesfunctie" ;
+  skos:prefLabel "logiesfunctie"@nl ;
+  a skos:Concept ;
+  skos:related bag:Gebruiksdoel .
+
+bag:Gezondheidszorgfunctie
+  skos:notation "gezondheidszorgfunctie" ;
+  skos:prefLabel "gezondheidszorgfunctie"@nl ;
+  a skos:Concept ;
+  skos:related bag:Gebruiksdoel .
+
+bag:Winkelfunctie
+  skos:notation "winkelfunctie" ;
+  skos:prefLabel "winkelfunctie"@nl ;
+  a skos:Concept ;
+  skos:related bag:Gebruiksdoel .
+
+bag:Sportfunctie
+  skos:notation "sportfunctie" ;
+  skos:prefLabel "sportfunctie"@nl ;
+  a skos:Concept ;
+  skos:related bag:Gebruiksdoel .
+
+bag:Industriefunctie
+  skos:notation "industriefunctie" ;
+  skos:prefLabel "industriefunctie"@nl ;
+  a skos:Concept ;
+  skos:related bag:Gebruiksdoel .
+
+bag:Bijeenkomstfunctie
+  skos:notation "bijeenkomstfunctie" ;
+  skos:prefLabel "bijeenkomstfunctie"@nl ;
+  a skos:Concept ;
+  skos:related bag:Gebruiksdoel .
+
+bag:Celfunctie
+  skos:notation "celfunctie" ;
+  skos:prefLabel "celfunctie"@nl ;
+  a skos:Concept ;
+  skos:related bag:Gebruiksdoel .
+
+bag:Kantoorfunctie
+  skos:notation "kantoorfunctie" ;
+  skos:prefLabel "kantoorfunctie"@nl ;
+  a skos:Concept ;
+  skos:related bag:Gebruiksdoel .
+
+bag:Woonfunctie
+  skos:notation "woonfunctie" ;
+  skos:prefLabel "woonfunctie"@nl ;
+  a skos:Concept ;
+  skos:related bag:Gebruiksdoel .
+
+bag:OverigeGebruiksfunctie
+  skos:notation "overige gebruiksfunctie" ;
+  skos:prefLabel "overige gebruiksfunctie"@nl ;
+  a skos:Concept ;
+  skos:related bag:Gebruiksdoel .
+
+bag:Onderwijsfunctie
+  skos:notation "onderwijsfunctie" ;
+  skos:prefLabel "onderwijsfunctie"@nl ;
+  a skos:Concept ;
+  skos:related bag:Gebruiksdoel .
+
+bag:Verblijfsobject
+  skos:prefLabel "verblijfsobject"@nl ;
+  a skos:Concept ;
+  skos:related bag:Gebruiksdoel .
