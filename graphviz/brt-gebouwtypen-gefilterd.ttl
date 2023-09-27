@@ -1,0 +1,572 @@
+brt:Crematorium
+  skos:notation "crematorium" ;
+  rdfs:label "crematorium" ;
+  skos:prefLabel "crematorium"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Verkeerstoren
+  skos:notation "verkeerstoren" ;
+  rdfs:label "verkeerstoren"@nl ;
+  skos:prefLabel "verkeerstoren"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Stationsgebouw
+  skos:notation "stationsgebouw" ;
+  rdfs:label "stationsgebouw"@nl ;
+  skos:prefLabel "stationsgebouw"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Wegrestaurant
+  skos:notation "wegrestaurant" ;
+  rdfs:label "wegrestaurant"@nl ;
+  skos:prefLabel "wegrestaurant"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:RadiotorenTelevisietoren
+  skos:notation "radiotoren, televisietoren" ;
+  rdfs:label "radiotoren, televisietoren"@nl ;
+  skos:prefLabel "radiotoren, televisietoren"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:StadskantoorHulpsecretarie
+  skos:notation "stadskantoor, hulpsecretarie" ;
+  rdfs:label "stadskantoor, hulpsecretarie"@nl ;
+  skos:prefLabel "stadskantoor, hulpsecretarie"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Huizenblok
+  skos:notation "huizenblok" ;
+  rdfs:label "huizenblok" ;
+  skos:prefLabel "huizenblok"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:WindmolenWatermolen
+  skos:notation "windmolen: watermolen" ;
+  rdfs:label "windmolen: watermolen"@nl ;
+  skos:prefLabel "windmolen: watermolen"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Politiebureau
+  skos:notation "politiebureau" ;
+  rdfs:label "politiebureau"@nl ;
+  skos:prefLabel "politiebureau"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Watertoren
+  skos:notation "watertoren" ;
+  rdfs:label "watertoren"@nl ;
+  skos:prefLabel "watertoren"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Postkantoor
+  skos:notation "postkantoor" ;
+  rdfs:label "postkantoor"@nl ;
+  skos:prefLabel "postkantoor"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:PsychiatrischZiekenhuisPsychiatrischCentrum
+  skos:notation "psychiatrisch ziekenhuis, psychiatrisch centrum" ;
+  rdfs:label "psychiatrisch ziekenhuis, psychiatrisch centrum"@nl ;
+  skos:prefLabel "psychiatrisch ziekenhuis, psychiatrisch centrum"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Gemeentehuis
+  skos:notation "gemeentehuis" ;
+  rdfs:label "gemeentehuis" ;
+  skos:prefLabel "gemeentehuis"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Toren
+  skos:notation "toren" ;
+  rdfs:label "toren"@nl ;
+  skos:prefLabel "toren"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Dok
+  skos:notation "dok" ;
+  rdfs:label "dok" ;
+  skos:prefLabel "dok"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:ParkeerdakParkeerdekParkeergarage
+  skos:notation "parkeerdak, parkeerdek, parkeergarage" ;
+  rdfs:label "parkeerdak, parkeerdek, parkeergarage"@nl ;
+  skos:prefLabel "parkeerdak, parkeerdek, parkeergarage"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Radarpost
+  skos:notation "radarpost" ;
+  rdfs:label "radarpost"@nl ;
+  skos:prefLabel "radarpost"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Brandtoren
+  skos:notation "brandtoren" ;
+  rdfs:label "brandtoren" ;
+  skos:prefLabel "brandtoren"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Boortoren
+  skos:notation "boortoren" ;
+  rdfs:label "boortoren" ;
+  skos:prefLabel "boortoren"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Schoorsteen
+  skos:notation "schoorsteen" ;
+  rdfs:label "schoorsteen"@nl ;
+  skos:prefLabel "schoorsteen"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Bunker
+  skos:notation "bunker" ;
+  rdfs:label "bunker" ;
+  skos:prefLabel "bunker"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Rune
+  skos:notation "ruïne" ;
+  rdfs:label "ruïne"@nl ;
+  skos:prefLabel "ruïne"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Radartoren
+  skos:notation "radartoren" ;
+  rdfs:label "radartoren"@nl ;
+  skos:prefLabel "radartoren"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Zwembad_gebouw
+  skos:notation "zwembad" ;
+  rdfs:label "zwembad (gebouw)"@nl ;
+  skos:prefLabel "zwembad"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Museum
+  skos:notation "museum" ;
+  rdfs:label "museum"@nl ;
+  skos:prefLabel "museum"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:KerncentraleKernreactor
+  skos:notation "kerncentrale, kernreactor" ;
+  rdfs:label "kerncentrale, kernreactor"@nl ;
+  skos:prefLabel "kerncentrale, kernreactor"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:School
+  skos:notation "school" ;
+  rdfs:label "school"@nl ;
+  skos:prefLabel "school"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:KasWarenhuis
+  skos:notation "kas, warenhuis" ;
+  rdfs:label "kas, warenhuis"@nl ;
+  skos:prefLabel "kas, warenhuis"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Fort
+  skos:notation "fort" ;
+  rdfs:label "fort" ;
+  skos:prefLabel "fort"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Veiling
+  skos:notation "veiling" ;
+  rdfs:label "veiling"@nl ;
+  skos:prefLabel "veiling"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Remise
+  skos:notation "remise" ;
+  rdfs:label "remise"@nl ;
+  skos:prefLabel "remise"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Synagoge
+  skos:notation "synagoge" ;
+  rdfs:label "synagoge"@nl ;
+  skos:prefLabel "synagoge"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Schaapskooi
+  skos:notation "schaapskooi" ;
+  rdfs:label "schaapskooi"@nl ;
+  skos:prefLabel "schaapskooi"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Recreatiecentrum
+  skos:notation "recreatiecentrum" ;
+  rdfs:label "recreatiecentrum"@nl ;
+  skos:prefLabel "recreatiecentrum"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Tol_gebouw
+  skos:notation "tol" ;
+  rdfs:label "tol (gebouw)"@nl ;
+  skos:prefLabel "tol"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Reddingboothuisje
+  skos:notation "reddingboothuisje" ;
+  rdfs:label "reddingboothuisje"@nl ;
+  skos:prefLabel "reddingboothuisje"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:MilitairGebouw
+  skos:notation "militair gebouw" ;
+  rdfs:label "militair gebouw"@nl ;
+  skos:prefLabel "militair gebouw"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Stadion
+  skos:notation "stadion" ;
+  rdfs:label "stadion"@nl ;
+  skos:prefLabel "stadion"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:KloosterAbdij
+  skos:notation "klooster, abdij" ;
+  rdfs:label "klooster, abdij"@nl ;
+  skos:prefLabel "klooster, abdij"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Luchtwachttoren
+  skos:notation "luchtwachttoren" ;
+  rdfs:label "luchtwachttoren"@nl ;
+  skos:prefLabel "luchtwachttoren"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Kasteel
+  skos:notation "kasteel" ;
+  rdfs:label "kasteel"@nl ;
+  skos:prefLabel "kasteel"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Telecommunicatietoren
+  skos:notation "telecommunicatietoren" ;
+  rdfs:label "telecommunicatietoren"@nl ;
+  skos:prefLabel "telecommunicatietoren"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Manege
+  skos:notation "manege" ;
+  rdfs:label "manege"@nl ;
+  skos:prefLabel "manege"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Waterradmolen
+  skos:notation "waterradmolen" ;
+  rdfs:label "waterradmolen"@nl ;
+  skos:prefLabel "waterradmolen"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Hotel
+  skos:notation "hotel" ;
+  rdfs:label "hotel" ;
+  skos:prefLabel "hotel"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Zendtoren
+  skos:notation "zendtoren" ;
+  rdfs:label "zendtoren"@nl ;
+  skos:prefLabel "zendtoren"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Pompstation
+  skos:notation "pompstation" ;
+  rdfs:label "pompstation"@nl ;
+  skos:prefLabel "pompstation"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Universiteit
+  skos:notation "universiteit" ;
+  rdfs:label "universiteit"@nl ;
+  skos:prefLabel "universiteit"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Ziekenhuis
+  skos:notation "ziekenhuis" ;
+  rdfs:label "ziekenhuis"@nl ;
+  skos:prefLabel "ziekenhuis"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Bebouwing
+  rdfs:label "bebouwing" ;
+  skos:prefLabel "bebouwing"@nl ;
+  a skos:Concept ;
+  skos:narrower brt:Gebouw .
+
+brt:Kunstijsbaan
+  skos:notation "kunstijsbaan" ;
+  rdfs:label "kunstijsbaan"@nl ;
+  skos:prefLabel "kunstijsbaan"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Sporthal
+  skos:notation "sporthal" ;
+  rdfs:label "sporthal"@nl ;
+  skos:prefLabel "sporthal"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:KliniekInrichtingSanatorium
+  skos:notation "kliniek, inrichting, sanatorium" ;
+  rdfs:label "kliniek, inrichting, sanatorium"@nl ;
+  skos:prefLabel "kliniek, inrichting, sanatorium"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Vuurtoren
+  skos:notation "vuurtoren" ;
+  rdfs:label "vuurtoren"@nl ;
+  skos:prefLabel "vuurtoren"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Windmolen
+  skos:notation "windmolen" ;
+  rdfs:label "windmolen"@nl ;
+  skos:prefLabel "windmolen"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Tank
+  skos:notation "tank" ;
+  rdfs:label "tank"@nl ;
+  skos:prefLabel "tank"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Transformatorstation_gebouw
+  skos:notation "transformatorstation" ;
+  rdfs:label "transformatorstation (gebouw)"@nl ;
+  skos:prefLabel "transformatorstation"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Tankstation
+  skos:notation "tankstation" ;
+  rdfs:label "tankstation"@nl ;
+  skos:prefLabel "tankstation"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Lichttoren
+  skos:notation "lichttoren" ;
+  rdfs:label "lichttoren"@nl ;
+  skos:prefLabel "lichttoren"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Paleis
+  skos:notation "paleis" ;
+  rdfs:label "paleis"@nl ;
+  skos:prefLabel "paleis"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Bezoekerscentrum
+  skos:notation "bezoekerscentrum" ;
+  rdfs:label "bezoekerscentrum" ;
+  skos:prefLabel "bezoekerscentrum"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Silo
+  skos:notation "silo" ;
+  rdfs:label "silo"@nl ;
+  skos:prefLabel "silo"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Koepel
+  skos:notation "koepel" ;
+  rdfs:label "koepel"@nl ;
+  skos:prefLabel "koepel"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Uitzichttoren
+  skos:notation "uitzichttoren" ;
+  rdfs:label "uitzichttoren"@nl ;
+  skos:prefLabel "uitzichttoren"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Kerk
+  skos:notation "kerk" ;
+  rdfs:label "kerk"@nl ;
+  skos:prefLabel "kerk"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Klokkentoren
+  skos:notation "klokkentoren" ;
+  rdfs:label "klokkentoren"@nl ;
+  skos:prefLabel "klokkentoren"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Moskee
+  skos:notation "moskee" ;
+  rdfs:label "moskee"@nl ;
+  skos:prefLabel "moskee"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:OverigReligieusGebouw
+  skos:notation "overig religieus gebouw" ;
+  rdfs:label "overig religieus gebouw"@nl ;
+  skos:prefLabel "overig religieus gebouw"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Windturbine
+  skos:notation "windturbine" ;
+  rdfs:label "windturbine"@nl ;
+  skos:prefLabel "windturbine"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Peilmeetstation
+  skos:notation "peilmeetstation" ;
+  rdfs:label "peilmeetstation"@nl ;
+  skos:prefLabel "peilmeetstation"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Brandweerkazerne
+  skos:notation "brandweerkazerne" ;
+  rdfs:label "brandweerkazerne" ;
+  skos:prefLabel "brandweerkazerne"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Gemaal
+  skos:notation "gemaal" ;
+  rdfs:label "gemaal" ;
+  skos:prefLabel "gemaal"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Gevangenis
+  skos:notation "gevangenis" ;
+  rdfs:label "gevangenis" ;
+  skos:prefLabel "gevangenis"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Observatorium
+  skos:notation "observatorium" ;
+  rdfs:label "observatorium"@nl ;
+  skos:prefLabel "observatorium"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Koeltoren
+  skos:notation "koeltoren" ;
+  rdfs:label "koeltoren"@nl ;
+  skos:prefLabel "koeltoren"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Fabriek
+  skos:notation "fabriek" ;
+  rdfs:label "fabriek" ;
+  skos:prefLabel "fabriek"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Overig_gebouw
+  skos:notation "overig" ;
+  rdfs:label "overig (gebouw)"@nl ;
+  skos:prefLabel "overig"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Kapel
+  skos:notation "kapel" ;
+  rdfs:label "kapel"@nl ;
+  skos:prefLabel "kapel"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:MarkantGebouw
+  skos:notation "markant gebouw" ;
+  rdfs:label "markant gebouw"@nl ;
+  skos:prefLabel "markant gebouw"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:WindmolenKorenmolen
+  skos:notation "windmolen: korenmolen" ;
+  rdfs:label "windmolen: korenmolen"@nl ;
+  skos:prefLabel "windmolen: korenmolen"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Elektriciteitscentrale
+  skos:notation "elektriciteitscentrale" ;
+  rdfs:label "elektriciteitscentrale" ;
+  skos:prefLabel "elektriciteitscentrale"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
+
+brt:Werf_gebouw
+  skos:notation "werf" ;
+  rdfs:label "werf (gebouw)"@nl ;
+  skos:prefLabel "werf"@nl ;
+  a skos:Concept ;
+  skos:broader brt:Gebouw .
